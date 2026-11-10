@@ -37,3 +37,7 @@ No. Everything is inside the app, and it works fully offline.
 ## Why doesn't the screen turn off?
 
 On purpose: the card should still be showing when you hand her the phone. Your normal auto-lock returns as soon as you leave the app.
+
+## Music credits
+
+The default track is **Morning** by Kevin MacLeod ([incompetech.com](https://incompetech.com/)), licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Two additional music choices are included in the hidden setup.

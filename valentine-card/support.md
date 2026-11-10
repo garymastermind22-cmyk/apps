@@ -41,3 +41,7 @@ No. Everything is built into the app, and it works with no connection at all.
 ## Why doesn't the screen go dark?
 
 On purpose: the card should still be showing when you hand over the phone. Your usual auto-lock comes back as soon as you leave the app.
+
+## Music credits
+
+The default track is **Evening** by Kevin MacLeod ([incompetech.com](https://incompetech.com/)), licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Two additional music choices are included in the hidden setup.
