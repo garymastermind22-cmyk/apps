@@ -10,3 +10,15 @@ title: Gary Guo · Apps
 - **[Little Joy Arcade](littlejoy/)**: a cozy animal arcade of claw machines and mini-games to build, play and collect. [Support](littlejoy/support/) · [Privacy](littlejoy/privacy/)
 
 Contact: [developer@garyguo.ca](mailto:developer@garyguo.ca)
+
+- **[Pop-Up Christmas Card](christmas-card/)**: a pop-up greeting card made for iPhone Duo. [Support](christmas-card/support/) · [Privacy](christmas-card/privacy/)
+
+- **[Pop-Up Thanksgiving Card](thanksgiving-card/)**: a pop-up greeting card made for iPhone Duo. [Support](thanksgiving-card/support/) · [Privacy](thanksgiving-card/privacy/)
+
+- **[Pop-Up Birthday Card](birthday-card/)**: a pop-up greeting card made for iPhone Duo. [Support](birthday-card/support/) · [Privacy](birthday-card/privacy/)
+
+- **[Pop-Up Valentine Card](valentine-card/)**: a pop-up greeting card made for iPhone Duo. [Support](valentine-card/support/) · [Privacy](valentine-card/privacy/)
+
+- **[Pop-Up Anniversary Card](anniversary-card/)**: a pop-up greeting card made for iPhone Duo. [Support](anniversary-card/support/) · [Privacy](anniversary-card/privacy/)
+
+- **[Pop-Up Mother’s Day Card](mothers-day-card/)**: a pop-up greeting card made for iPhone Duo. [Support](mothers-day-card/support/) · [Privacy](mothers-day-card/privacy/)
