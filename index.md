@@ -9,6 +9,8 @@ title: Gary Guo · Apps
 - **[Grab Heroes](grabheroes/)**: a claw machine full of heroes and loot that you send out on dungeon quests. [Support](grabheroes/support/) · [Privacy](grabheroes/privacy/)
 - **[Little Joy Arcade](littlejoy/)**: a cozy animal arcade of claw machines and mini-games to build, play and collect. [Support](littlejoy/support/) · [Privacy](littlejoy/privacy/)
 
+- **[Duo Cards](duo-cards/)**: six pop-up greeting cards in one app, made for iPhone Duo. [Support](duo-cards/support/) · [Privacy](duo-cards/privacy/)
+
 Contact: [developer@garyguo.ca](mailto:developer@garyguo.ca)
 
 - **[Pop-Up Christmas Card](christmas-card/)**: a pop-up greeting card made for iPhone Duo. [Support](christmas-card/support/) · [Privacy](christmas-card/privacy/)
